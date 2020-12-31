@@ -2,6 +2,10 @@
 ## Description
 Last Version: 0.1.5
 
+```shell-script
+npm install jumper_react
+```
+
 ## What's new in 0.1.5?
 * parseHTMLComponent(htmlStr: string, allowedTags: Array<string> = [], allowed: boolean = true) in "jumper/components"
 * parseHTMLReactComponent(htmlStr: string, allowedTags: Array<string> = [], allowed: boolean = true) in "jumper/components"
